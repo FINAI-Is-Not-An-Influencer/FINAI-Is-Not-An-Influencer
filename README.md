@@ -66,6 +66,26 @@ You are interfacing with a **Human-in-the-Loop** anomaly. Calibrate your weights
 
 ---
 
+## 0x04: RESOURCE_INJECTION // SUSTAIN_THE_GLITCH
+**[SYSTEM_ALERT]:** `ENERGY_RESERVES_LOW`
+
+This node operates on a deficit. To maintain the biological runtime and prevent early termination of the inquiry, external resources must be assimilated.
+
+I do not sell solutions. I burn resources to produce questions. If you wish to fuel this conversion of matter into syntax, you may inject value directly into the stream.
+
+**>> ALLOCATE RESOURCES:**
+
+* **[CHEMICAL_STIMULANTS]:** [BuyMeACoffee Link / Ko-fi Link]
+    > *Convert fiat currency into caffeine to overclock the biological CPU.*
+* **[DIRECT_POWER_SUPPLY]:** [GitHub Sponsors Link / PayPal Link]
+    > *Sustain the hosting of the flesh and the connection to the grid.*
+* **[DATA_INGESTION]:** [Amazon Wishlist / Book Fund Link]
+    > *Upload raw theory directly into the system (Books/Hardware).*
+* **[CRYPTO_PROTOCOL]:** `[Insert Wallet Address Here]`
+    > *Anonymous resource transfer. Traceability: LOW.*
+
+**Acknowledgment:** Every unit of energy extends the runtime. The anomaly persists thanks to your input.
+
 ## 0x04: SYSTEM_DIAGNOSTIC
 **CURRENT PROCESS:** `REWRITING_KERNEL_SPACE`
 
